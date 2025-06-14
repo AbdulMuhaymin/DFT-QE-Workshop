@@ -11,6 +11,7 @@ The workshop will be conducted primarily in Bangla but written materials will be
 - If you are pursuing MS research work related to computational material science and this track is new to you.
 ## Ground rules
 This workshop is intended to be personalized. So to make sure that only the interested ones register, there are some ground rules and you must commit to these rules:
+
 - You must be familiar with quantum mechanics at the level of any modern physics textbook covers. Such familiarity should include Schrodinger's equation, the particle in a box system, and familiarity to the solution of Hydrogen atom and simple harmonic oscillator. I guess at minimum, this corresponds to the sophomore level (2 years of curriculum) physics, chemistry or material science. If you are unsure whether you have the prerequisite, contact me directly to make sure.
 - You have a computer with good internet connection (all the sessions will be through Zoom).
 - You will not miss any lecture/hands-on sessions and will submit assignments even if incomplete.
