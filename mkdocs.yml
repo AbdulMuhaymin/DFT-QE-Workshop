@@ -1,4 +1,4 @@
-site_name: Exploring atomic scale physics using ab-initio calculation - Workshop 2025
+site_name: Workshop 2025
 site_url: https://abdulmuhaymin.github.io/Workshop-2025/
 theme:
   name: material
@@ -27,3 +27,5 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
