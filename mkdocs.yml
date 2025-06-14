@@ -7,14 +7,6 @@ theme:
   icon:
     logo: fontawesome/solid/w
   palette:
-    # Dark Mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Dark mode
-      primary: green
-      accent: deep purple
-
     # Light Mode
     - scheme: default
       toggle:
@@ -22,6 +14,13 @@ theme:
         name: Light mode
       primary: blue
       accent: deep orange
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
 
 markdown_extensions:
   - pymdownx.highlight:

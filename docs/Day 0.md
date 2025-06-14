@@ -4,6 +4,7 @@ Before we begin hands-on sessions, participants must prepare their systems by in
 
 We will primarily use the **Quantum ESPRESSO (QE)** suite and **WEST** code. Additionally, tools like `c2x`, `XCrySDen`, and `VESTA` will assist with tasks like input generation, post-processing, and visualization.
 
+---
 
 ## 🖥️ Operating System Requirements
 
@@ -14,12 +15,15 @@ To ensure smooth performance and compatibility, a Unix-like environment is requi
 
 > ⚠️ Regardless of OS, you must have access to a terminal (`bash`, `sh`, or `zsh`) to execute commands.
 
+---
+
 ## 🧰 Recommended Software
 
 - **Code Editors**: If you are an advanced user, you're free to use `nano` or `vim`. However, I recommend editors like **VS Code**, **Sublime Text**, or **Atom**. I'll be using **VS Code** during the sessions.
 - **Zoom**: All lectures and hands-on sessions will be conducted via Zoom. Please ensure it's installed and functional. In case it doesn't work, we'll be using Google Meet. 
 - **Python (optional but highly recommended)**: While not required, basic familiarity with Python is a plus. It can be helpful for automating tasks and analyzing results.
 
+---
 
 ## ⚙️ Installing Quantum ESPRESSO (QE)
 
@@ -70,6 +74,8 @@ To ensure smooth performance and compatibility, a Unix-like environment is requi
     ```
 
     If this fails or you encounter errors, post in the Facebook group or create a GitHub issue: [https://github.com/AbdulMuhaymin/Workshop-2025/issues/new](https://github.com/AbdulMuhaymin/Workshop-2025/issues/new)
+
+---
 
 ## 🔧 Other Tools
 
