@@ -1,6 +1,6 @@
 # Welcome
 
-![Workshop Cover](https://raw.githubusercontent.com/AbdulMuhaymin/Workshop_2025/main/docs/assests/cover.png)
+![Workshop Cover](https://raw.githubusercontent.com/AbdulMuhaymin/Workshop-2025/refs/heads/main/docs/assests/cover.png)
 
 ## Workshop 2025: Exploring Atomic Scale Physics with Ab-initio Calculations
 
