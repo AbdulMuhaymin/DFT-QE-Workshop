@@ -1,5 +1,7 @@
 # Welcome
 
+![Workshop Cover](assets/cover.png)
+
 ## Workshop 2025: Exploring Atomic Scale Physics with Ab-initio Calculations
 
 This workshop introduces participants to ab-initio (first-principles) methods for studying atomic-scale physics. We'll begin with foundational concepts in electronic structure and Density Functional Theory (DFT), and then apply them using **Quantum ESPRESSO (QE)**. The course continues with advanced beyond-DFT topics like **DFT+U** and an introduction to **Many-Body Perturbation Theory (MBPT)** through Green's function-based methods.
