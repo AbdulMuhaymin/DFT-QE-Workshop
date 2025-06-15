@@ -41,6 +41,9 @@ markdown_extensions:
   
 copyright: Copyright &copy; 2025 Abdul Muhaymin
 extra:
+  analytics:
+    provider: google
+    property: G-RRH97EF2LH
   social:
     - icon: material/web
       link: https://abdulmuhaymin.github.io/
