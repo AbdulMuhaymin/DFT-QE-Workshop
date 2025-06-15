@@ -30,29 +30,29 @@ To ensure smooth performance and compatibility, a Unix-like environment is requi
 === "✅ Recommended (Source Build)"
 
     1. **Install prerequisites**:
-    ```
+    ```bash
     $ sudo apt install git wget build-essential
     $ sudo apt install g++ gfortran liblapack-dev
     $ sudo apt install libfftw3-dev libopenmpi-dev
     ```
 
     2. **Download the source**:
-        ```
-        cd ~
-        mkdir opt
-        cd opt
-        git clone https://github.com/QEF/q-e.git
+        ```bash
+        $ cd ~
+        $ mkdir opt
+        $ cd opt
+        $ git clone https://github.com/QEF/q-e.git
         ```
 
     3. **Configure the build**:
-        ```
-        cd q-e
-        ./configure
+        ```bash
+        $ cd q-e
+        $ ./configure
         ```
 
     4. **Compile QE (parallelized)**:
         ```bash
-        make -j$(nproc) all
+        $ make -j$(nproc) all
         ```
 
         > 💡 Use just `make all` if you're on an old PC or single-core system.
@@ -62,15 +62,15 @@ To ensure smooth performance and compatibility, a Unix-like environment is requi
 
     6. **(Optional) Add QE to your PATH**:
         ```bash
-        echo 'export PATH=$PATH:$HOME/opt/q-e/bin' >> ~/.bashrc
-        source ~/.bashrc
+        $ echo 'export PATH=$PATH:$HOME/opt/q-e/bin' >> ~/.bashrc
+        $ source ~/.bashrc
         ```
 === "🧪 Alternate (Quick Install)"
 
     If you're unable to compile QE, try the Ubuntu package version (not recommended for advanced features):
 
-    ```
-    sudo apt install quantum-espresso
+    ```bash
+    $ sudo apt install quantum-espresso
     ```
 
     If this fails or you encounter errors, post in the Facebook group or create a GitHub issue: [https://github.com/AbdulMuhaymin/Workshop-2025/issues/new](https://github.com/AbdulMuhaymin/Workshop-2025/issues/new)
